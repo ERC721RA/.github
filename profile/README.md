@@ -19,11 +19,12 @@ Rari Labs is not liable for any outcome of using ERC721RA
 
 The gas report is generated with Hardhat Gas Reporter. The minting performance is much more efficient and consistent.
 
-![gas-saving](https://raw.githubusercontent.com/rarilabs/ERC721RA/main/assets/gas-saving.png)
+![gas-saving](https://raw.githubusercontent.com/rarilabs/ERC721RA/main/assets/gas-saving-small.png)
 
 ## Contact
 
 - Will Qian (creator) - [@0xwilxyz](https://twitter.com/0xwilxyz)
+**Join ERC721RA as a contributor: [Apply Now](https://forms.gle/RWjZMjq1VcEjPfrX8)**
 
 
 ## License
