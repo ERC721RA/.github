@@ -8,13 +8,10 @@ ERC721RA is an improved implementation of ERC721 with refundability and gas savi
 
 The goal of this project is to encourage the implementation of of ERC721RA NFT and improve creators credibility.
 
-##
-##
-
 For more information please visit [erc721ra.org](https://erc721ra.org). Follow us on twitter for [@ERC721RA](https://twitter.com/erc721ra) the latest updates. Join our [Github](https://github.com/erc721ra) project to collaborate.
 
 
-ERC721RA was initially created by Will Qian from Rari Labs for the NFT social web 3.0 project.
+ERC721RA was initially created by Will Qian from Rari Labs for the NFT social 3.0 project.
 
 Rari Labs is not liable for any outcome of using ERC721RA
 
