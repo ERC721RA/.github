@@ -21,7 +21,7 @@ Rari Labs is not liable for any outcome of using ERC721RA
 
 ## Contact
 
-- Will Qian (owner) - [@0xwilxyz](https://twitter.com/0xwilxyz)
+- Will Qian (creator) - [@0xwilxyz](https://twitter.com/0xwilxyz)
 
 
 ## License
