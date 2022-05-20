@@ -37,6 +37,7 @@ The gas report is generated with Hardhat Gas Reporter. The minting performance i
 - Isareu(Contributor) - [Twitter](https://twitter.com/YidingYou)
 - Berrekkal(Contributor) - [Twitter](https://twitter.com/berrekkal)
 - Sophia(Contributor) - [Twitter](https://twitter.com/523498538) | [Github](https://github.com/nightrainbow45)
+- Kevin(Contributor) - [Twitter](https://twitter.com/ele_cyber)
 
 **Join ERC721RA as a contributor: [Apply Now](https://forms.gle/32uiJ6d7e8McddaK6)**
 
