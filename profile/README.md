@@ -23,11 +23,20 @@ The gas report is generated with Hardhat Gas Reporter. The minting performance i
 
 ## Contact
 
-- Will Qian (creator) - [@0xwilxyz](https://twitter.com/0xwilxyz)
-- Lucky (Core Contributor) - [@millsonzhou](https://twitter.com/millsonzhou)
-- Kuncle (Contributor) - [@KingsUncle1](https://twitter.com/KingsUncle1)
-- Joyce (Contributor) - [@joydefender](https://twitter.com/joydefender)
-
+- Wil Zee (creator) - [Twitter](https://twitter.com/0xwilxyz) [Github](https://github.com/0xwilxyz)
+- Lucky (Core Contributor) - [Twitter](https://twitter.com/millsonzhou) [Github](https://github.com/lucky2077) 
+- Kuncle (Contributor) - [Twitter](https://twitter.com/KingsUncle1) [Github](https://github.com/kuncle)
+- Joyce (Contributor) - [Twitter](https://twitter.com/joydefender)
+- Nancy(Contributor) - [Twitter](https://twitter.com/Metartech)
+- Fourwood(Contributor) - [Twitter](https://twitter.com/FFFFourwood) [Github](https://github.com/FFFFourwood)
+- PM [Twitter](https://twitter.com/pinkmontaigne) [Github](https://github.com/wang502)
+- Sicknews(Contributor) - [Twitter](https://twitter.com/akalilsam) [Github](https://github.com/akalilsam)
+- NealZnb(Contributor) - [Twitter](https://twitter.com/zb881209) [Github](https://github.com/znbj)
+- Will4am(Contributor) - [Twitter](https://twitter.com/Will_4_Am)
+- Richard(Contributor) - [Twitter](https://twitter.com/RichardLi869) [Github](https://github.com/leechs)
+- Isareu(Contributor) - [Twitter](https://twitter.com/YidingYou)
+- Berrekkal(Contributor) - [Twitter](https://twitter.com/berrekkal)
+- Sophia(Contributor) - [Twitter](https://twitter.com/523498538) [Github](https://github.com/nightrainbow45)
 
 **Join ERC721RA as a contributor: [Apply Now](https://forms.gle/32uiJ6d7e8McddaK6)**
 
