@@ -15,6 +15,10 @@ ERC721RA was initially created by Will Qian from Rari Labs for the NFT social 3.
 
 Rari Labs is not liable for any outcome of using ERC721RA
 
+## ERC721RA 
+
+We are proudly to support Chainlink VRF V2 to provide on-chain randomness. So that you can easily create random token generation for NFT minting.
+
 ## Gas Comparison ERC721RA vs ERC721
 
 The gas report is generated with Hardhat Gas Reporter. The minting performance is much more efficient and consistent.
