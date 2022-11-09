@@ -27,7 +27,7 @@ The gas report is generated with Hardhat Gas Reporter. The minting performance i
 
 ## Contact
 
-- Wil Zee (creator) - [Twitter](https://twitter.com/0xwilxyz) | [Github](https://github.com/0xwilxyz)
+- Will (creator) - [Twitter](https://twitter.com/Gaszlla) | [Github](https://github.com/Gaszlla)
 - Lucky (Core Contributor) - [Twitter](https://twitter.com/0xLucky2077_eth) | [Github](https://github.com/lucky2077) 
 - Kuncle (Contributor) - [Twitter](https://twitter.com/KingsUncle1) | [Github](https://github.com/kuncle)
 - Joyce (Contributor) - [Twitter](https://twitter.com/joydefender)
