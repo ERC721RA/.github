@@ -10,7 +10,7 @@ For more information please visit [erc721ra.org](https://erc721ra.org).
 
 Follow us on twitter for [@ERC721RA](https://twitter.com/erc721ra) the latest updates. Join our [Github](https://github.com/erc721ra) project to collaborate.
 
-ERC721RA was initially created by WIL ZEE from Rari Labs for the NFT social web 3.0 project.
+ERC721RA was initially created by Spacebeast from Rari Labs for the NFT social web 3.0 project.
 
 Rari Labs is not liable for any outcome of using ERC721RA
 
